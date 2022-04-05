@@ -1,4 +1,4 @@
-<h1 align="center">A Guide to Minecraft Performance</h1>
+<h1 align="center">A Guide to Minecraft Performance (WIP)</h1>
 <div align="center">
     <img src="https://img.shields.io/github/last-commit/asptu/minecraft-performance-guide?style=for-the-badge">
     <img src="https://img.shields.io/github/commit-activity/w/asptu/minecraft-performance-guide?color=red&style=for-the-badge">
@@ -15,7 +15,10 @@
 ### Table of contents
 - [About Minecraft Performance](#About) <!-- Remember to write about small adjustments like render distance, particles etc.-->
 - [Fabric vs Optifine](#Fabric-Optifine) <!-- Write about how you can customise your experience with fabric instead of just having optifine + having better overall performance -->
-- [Performance Fabric Mods](#Fabric-Mods) <!-- List of mods + graphs -->
+- [Fabric Mods](#Fabric-Mods) <!-- List of mods + graphs -->
+- [Different Launchers](#Diff-Launchers) <!-- default mc launcher SLOW AS -->
+- [Visual Enchancement Mods](#Visual-Enhancements) <!-- not performance but cool -->
+- [Other Cool Mods](#Other) <!-- troll -->
  
 
 
@@ -30,3 +33,11 @@
 <a name="Fabric-Optifine">
     
 <a name="Fabric-Mods">
+    
+    
+<a name="Diff-Launchers">
+     <a name="Visual-Enhancements">
+
+    
+ <a name="Other">
+
