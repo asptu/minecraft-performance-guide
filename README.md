@@ -13,31 +13,26 @@
 ---
 <!-- When you switch from all html to md -->
 ### Table of contents
-- [About Minecraft Performance](#About) <!-- Remember to write about small adjustments like render distance, particles etc.-->
-- [Fabric vs Optifine](#Fabric-Optifine) <!-- Write about how you can customise your experience with fabric instead of just having optifine + having better overall performance -->
-- [Fabric Mods](#Fabric-Mods) <!-- List of mods + graphs -->
-- [Different Launchers](#Diff-Launchers) <!-- default mc launcher SLOW AS -->
-- [Visual Enchancement Mods](#Visual-Enhancements) <!-- not performance but cool -->
-- [Other Cool Mods](#Other) <!-- troll -->
- 
-
-
+- [**About Minecraft Performance** 📄](#About) <!-- Remember to write about small adjustments like render distance, particles etc.-->
+- [**Fabric vs Optifine** ⚔️](#Fabric-Optifine) <!-- Write about how you can customise your experience with fabric instead of just having optifine + having better overall performance -->
+- [**Fabric Mods** 📦](#Fabric-Mods) <!-- List of mods + graphs -->
+    - [*Performance Mods* ⭐](#Performance) <!-- Sodium, Entity culling, Block entities etc. -->
+    - [*Utility Mods* 👓](#Utility) <!-- Okzoomer, modmenu viafabric -->
+- [**3rd Party Clients** 🌛](#3rdparty) <!-- lunar client, feather client copy sodium source code loL!!! -->
+- [**Launcher Alternatives** 📠](#Diff-Launchers) <!-- default mc launcher SLOW AS -->
+- [**Misc Mods** 🤯](#Other) <!-- hacks, falling leaves, visual enchantments cool stuff -->
 
 
 
 
 <a name="About">
-    
-    
-
 <a name="Fabric-Optifine">
-    
 <a name="Fabric-Mods">
-    
-    
+<a name="Performance">
+<a name="Utility">
+<a name="3rdparty">
 <a name="Diff-Launchers">
-     <a name="Visual-Enhancements">
+<a name="Visual-Enhancements">
+<a name="Other">
 
-    
- <a name="Other">
 
