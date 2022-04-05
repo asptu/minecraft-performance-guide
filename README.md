@@ -11,7 +11,7 @@
 </p>
 
 ---
-<!-- When you switch from all html to md -->
+<!-- When you switch from all html to md 🤯-->
 ### Table of contents
 - [**About Minecraft Performance** 📄](#About) <!-- Remember to write about small adjustments like render distance, particles etc.-->
 - [**Fabric vs Optifine** ⚔️](#Fabric-Optifine) <!-- Write about how you can customise your experience with fabric instead of just having optifine + having better overall performance -->
@@ -23,9 +23,15 @@
 - [**Misc Mods** 🤯](#Other) <!-- hacks, falling leaves, visual enchantments cool stuff -->
 
 
+## About Minecraft Performance <a name="About">
+    
+<img src="https://github.com/asptu/minecraft-performance-guide/blob/main/contents/1.18-example.png" align="right" width="400" height="400">
+    
+Minecraft has always been known as one of the most challenging games to run at a consistent and high framerate, no matter what hardware you throw at it
 
 
-<a name="About">
+
+
 <a name="Fabric-Optifine">
 <a name="Fabric-Mods">
 <a name="Performance">
