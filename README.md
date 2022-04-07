@@ -33,12 +33,19 @@ Minecraft has always been known as one of the most challenging games to run at a
 
 
 <a name="Fabric-Optifine">
+    
 <a name="Fabric-Mods">
+    
 <a name="Performance">
+    
 <a name="Utility">
+    
 <a name="3rdparty">
+    
 <a name="Diff-Launchers">
+    
 <a name="Visual-Enhancements">
+    
 <a name="Other">
 
 
