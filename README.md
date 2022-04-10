@@ -1,3 +1,4 @@
+<!-- i didnt know you could make terrible readme file code, but apparently it is possible -->
 <h1 align="center">A Guide to Minecraft Performance (WIP)</h1>
 <div align="center">
     <img src="https://img.shields.io/github/last-commit/asptu/minecraft-performance-guide?style=for-the-badge">
@@ -23,6 +24,15 @@
 - [📠 **Launcher Alternatives**](#Diff-Launchers) <!-- default mc launcher SLOW AS -->
 - [🤯 **Misc Mods** ](#Other) <!-- hacks, falling leaves, visual enchantments cool stuff -->
 
+
+<!-- switching to html, will finish later -->
+<ul>
+
+<li><a href="#Basics"><b>📄 Minecraft Performance Basics<b> </a> </li>
+<li><a href="#Fabric-Optifine"><b>⚔️ Fabric vs Optifine<b> </a> </li>
+<li><a href="#"><b>⚔️ Fabric vs Lunar Client<b> </a> </li>
+</ul>
+
 <!-- Unused Draft
 ## About Minecraft Performance <a name="About">
     
@@ -30,11 +40,16 @@
     
 Minecraft has always been known as one of the most challenging games to run at a consistent and high framerate, no matter what hardware you throw at it
 -->
-<h2 align="center">Minecraft Performance Basics</h2> <a name="Basics">
 
+<h2 align="center">Minecraft Performance Basics</h2> <a name="Basics">
+  <p style="text-align:center;">The very basics on how to improve your Minecraft performance (skip past  .</p>
+    
+
+    
+<h3>Render Distance</h3>
 <details>
 <summary>Sodium</summary>
-<img src="https://apaskulin.github.io/waxtechnical/images/pup.jpg" width="500">
+<img src="https://github.com/asptu/minecraft-performance-guide/blob/main/contents/javaw_hIBfhpSMHX.gif" width="500">
 </details>
     
 <details>
