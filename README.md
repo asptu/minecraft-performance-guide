@@ -28,18 +28,10 @@
 <!-- switching to html, will finish later -->
 <ul>
 
-<li><a href="#Basics"><b>📄 Minecraft Performance Basics<b> </a> </li>
-<li><a href="#Fabric-Optifine"><b>⚔️ Fabric vs Optifine<b> </a> </li>
-<li><a href="#"><b>⚔️ Fabric vs Lunar Client<b> </a> </li>
+<li><a href="#Basics"><b>📄 Minecraft Performance Basics</b> </a> </li>
+<li><a href="#Fabric-Optifine"><b>⚔️ Fabric vs Optifine</b> </a> </li>
+<li><a href="#"><b>⚔️ Fabric vs Lunar Client</b> </a> </li>
 </ul>
-
-<!-- Unused Draft
-## About Minecraft Performance <a name="About">
-    
-<img src="https://github.com/asptu/minecraft-performance-guide/blob/main/contents/1.18-example.png" align="right" width="240" height="240">
-    
-Minecraft has always been known as one of the most challenging games to run at a consistent and high framerate, no matter what hardware you throw at it
--->
 
 <h2 align="center">Minecraft Performance Basics</h2> <a name="Basics">
   <p style="text-align:center;">The very basics on how to improve your Minecraft performance (skip past  .</p>
@@ -49,6 +41,7 @@ Minecraft has always been known as one of the most challenging games to run at a
 <h3>Render Distance</h3>
 <details>
 <summary>Sodium</summary>
+    <p> (the lower your render distance the higher your fps)</p>    
 <img src="https://github.com/asptu/minecraft-performance-guide/blob/main/contents/javaw_hIBfhpSMHX.gif" width="500">
 </details>
     
