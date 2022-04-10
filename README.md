@@ -13,8 +13,9 @@
 ---
 <!-- When you switch from all html to md 🤯-->
 ### Table of contents
-- [📄 **About Minecraft Performance**](#About) <!-- Remember to write about small adjustments like render distance, particles etc.-->
+- [📄 **Minecraft Performance Basics**](#Basics) <!-- Remember to write about small adjustments like render distance, particles etc.-->
 - [⚔️ **Fabric vs Optifine**](#Fabric-Optifine) <!-- Write about how you can customise your experience with fabric instead of just having optifine + having better overall performance -->
+- [🛡️ **Fabric vs Lunar Client**](#Fabric-Optifine) <!-- Write about how you can customise your experience with fabric instead of just having optifine + having better overall performance -->
 - [📦 **Fabric Mods**](#Fabric-Mods) <!-- List of mods + graphs -->
     - [⭐ *Performance Mods*](#Performance) <!-- Sodium, Entity culling, Block entities etc. -->
     - [👓 *Utility Mods*](#Utility) <!-- Okzoomer, modmenu viafabric -->
@@ -22,15 +23,24 @@
 - [📠 **Launcher Alternatives**](#Diff-Launchers) <!-- default mc launcher SLOW AS -->
 - [🤯 **Misc Mods** ](#Other) <!-- hacks, falling leaves, visual enchantments cool stuff -->
 
-
+<!-- Unused Draft
 ## About Minecraft Performance <a name="About">
     
 <img src="https://github.com/asptu/minecraft-performance-guide/blob/main/contents/1.18-example.png" align="right" width="240" height="240">
     
 Minecraft has always been known as one of the most challenging games to run at a consistent and high framerate, no matter what hardware you throw at it
+-->
+<h2 align="center">Minecraft Performance Basics</h2> <a name="Basics">
 
-
-
+<details>
+<summary>Sodium</summary>
+<img src="https://apaskulin.github.io/waxtechnical/images/pup.jpg" width="500">
+</details>
+    
+<details>
+<summary>Fabric/Optifine</summary>
+<img src="https://apaskulin.github.io/waxtechnical/images/pup.jpg" width="500">
+</details>
 
 <a name="Fabric-Optifine">
     
