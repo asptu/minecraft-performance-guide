@@ -37,7 +37,6 @@
   <p style="text-align:center;">The very basics on how to improve your Minecraft performance (skip past  .</p>
     
 
-    
 <h3>Render Distance</h3>
 <details>
 <summary>Sodium</summary>
@@ -67,3 +66,19 @@
 <a name="Other">
 
 
+<!-- this is purely for planning purposes because i cant seem to make up my mind on how i want this to look
+
+ Minecraft Performance Guide
+table of contents
+Configuring Default Settings
+Minecraft Modding
+Which Client is the best?
+Which launcher is the best
+
+i still dont like this
+
+why cant i make a decision
+  
+
+
+-->
