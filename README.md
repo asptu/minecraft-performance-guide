@@ -16,21 +16,27 @@
 ### Table of contents
 - [📄 **Minecraft Performance Basics**](#Basics) <!-- Remember to write about small adjustments like render distance, particles etc.-->
 
-<h2 align="center">Minecraft Performance Basics</h2> <a name="Basics">
-  <p style="text-align:center;"></p>
-  <p align="center">An explanation of the default <b>Vanilla</b> settings and how they affect <b>Performance</b> </p>
+<h2 align="center"><b>Minecraft Performance Basics</b></h2> <a name="Basics">
 
-
-
-
+  <p style="text-align:center;">An explanation of the default <b>Vanilla</b> settings and how they affect <b>Performance</b></p>
 
 
 <details>
 <summary> 
 <h3>Render Distance</h3> 
 </summary>
-<br> 
 Render distance controls how much of the world is visible in chunks
+
+<br></br>
+<img src='https://i.imgur.com/Qshx4wO.gif' alt="Render distance change demo">
+</details>
+
+<details>
+<summary> 
+<h3>Simulation Distance</h3> 
+</summary>
+Render distance controls how much of the world is visible in chunks
+<br></br>
 <img src="./contents/vanilla_render_distance.gif">
 </details>
 
