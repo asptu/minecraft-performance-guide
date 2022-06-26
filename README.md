@@ -8,46 +8,29 @@
   
 ---
 <p align="center">
-  <img src="https://github.com/asptu/minecraft-performance-guide/blob/main/contents/mainpage.png">
+  <img src="./contents/mainpage.png">
 </p>
 
 ---
 <!-- When you switch from all html to md 🤯-->
 ### Table of contents
 - [📄 **Minecraft Performance Basics**](#Basics) <!-- Remember to write about small adjustments like render distance, particles etc.-->
-- [⚔️ **Fabric vs Optifine**](#Fabric-Optifine) <!-- Write about how you can customise your experience with fabric instead of just having optifine + having better overall performance -->
-- [🛡️ **Fabric vs Lunar Client**](#Fabric-Optifine) <!-- Write about how you can customise your experience with fabric instead of just having optifine + having better overall performance -->
-- [📦 **Fabric Mods**](#Fabric-Mods) <!-- List of mods + graphs -->
-    - [⭐ *Performance Mods*](#Performance) <!-- Sodium, Entity culling, Block entities etc. -->
-    - [👓 *Utility Mods*](#Utility) <!-- Okzoomer, modmenu viafabric -->
-- [🌛 **3rd Party Clients**](#3rdparty) <!-- lunar client, feather client copy sodium source code loL!!! -->
-- [📠 **Launcher Alternatives**](#Diff-Launchers) <!-- default mc launcher SLOW AS -->
-- [🤯 **Misc Mods** ](#Other) <!-- hacks, falling leaves, visual enchantments cool stuff -->
-
-
-<!-- switching to html, will finish later -->
-<ul>
-
-<li><a href="#Basics"><b>📄 Minecraft Performance Basics</b> </a> </li>
-<li><a href="#Fabric-Optifine"><b>⚔️ Fabric vs Optifine</b> </a> </li>
-<li><a href="#"><b>⚔️ Fabric vs Lunar Client</b> </a> </li>
-</ul>
 
 <h2 align="center">Minecraft Performance Basics</h2> <a name="Basics">
-  <p style="text-align:center;">The very basics on how to improve your Minecraft performance (skip past  .</p>
-    
+  <p style="text-align:center;"></p>
+  <p align="center">An explanation of the default <b>Vanilla</b> settings and how they affect <b>Performance</b> </p>
 
-<h3>Render Distance</h3>
+
+
+
+
+
 <details>
-<summary>Sodium</summary>
-    <p> (the lower your render distance the higher your fps)</p>    
-<img src="https://github.com/asptu/minecraft-performance-guide/blob/main/contents/javaw_hIBfhpSMHX.gif" width="500">
+<summary><h3>Render Distance</h3></summary>
+<br>
+Well, you asked for it!
 </details>
-    
-<details>
-<summary>Fabric/Optifine</summary>
-<img src="https://apaskulin.github.io/waxtechnical/images/pup.jpg" width="500">
-</details>
+
 
 <a name="Fabric-Optifine">
     
