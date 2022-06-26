@@ -25,19 +25,20 @@
 <summary> 
 <h3>Render Distance</h3> 
 </summary>
-Render distance controls how much of the world is visible in chunks
+Render distance controls how much of the world is visible in chunks.
 
+The lower your chunks are the higher your FPS and vice versa.
 <br></br>
-<img src='https://i.imgur.com/Qshx4wO.gif' alt="Render distance change demo">
+<img src='https://i.imgur.com/Qshx4wO.gif'>
 </details>
-
 <details>
+
 <summary> 
 <h3>Simulation Distance</h3> 
 </summary>
 Render distance controls how much of the world is visible in chunks
 <br></br>
-<img src="./contents/vanilla_render_distance.gif">
+<img src="">
 </details>
 
 
