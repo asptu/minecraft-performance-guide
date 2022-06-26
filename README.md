@@ -26,9 +26,12 @@
 
 
 <details>
-<summary><h3>Render Distance</h3></summary>
-<br>
-Well, you asked for it!
+<summary> 
+<h3>Render Distance</h3> 
+</summary>
+<br> 
+Render distance controls how much of the world is visible in chunks
+<img src="./contents/vanilla_render_distance.gif">
 </details>
 
 
